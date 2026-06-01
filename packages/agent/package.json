@@ -39,8 +39,8 @@
     "pluralize": "^8.0.0",
     "tstl": "catalog:samchon",
     "typia": "catalog:samchon",
-    "uuid": "^11.1.0",
-    "yaml": "^2.8.2"
+    "uuid": "^14.0.0",
+    "yaml": "^2.8.3"
   },
   "devDependencies": {
     "@autobe/compiler": "workspace:^",

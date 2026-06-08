@@ -50,7 +50,7 @@
     "@nestia/e2e": "catalog:samchon",
     "@nestia/fetcher": "catalog:samchon",
     "@nestjs/common": "^11.1.3",
-    "@nestjs/core": "^11.1.3",
+    "@nestjs/core": "^11.1.18",
     "@nestjs/platform-express": "^11.1.6",
     "@prisma/adapter-better-sqlite3": "catalog:prisma",
     "@prisma/client": "catalog:prisma",
@@ -61,7 +61,7 @@
     "tgrid": "catalog:samchon",
     "tstl": "catalog:samchon",
     "typia": "catalog:samchon",
-    "uuid": "^11.1.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@nestia/sdk": "catalog:samchon",

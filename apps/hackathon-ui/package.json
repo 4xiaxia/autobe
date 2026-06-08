@@ -45,7 +45,7 @@
     "sonner": "^2.0.7",
     "tgrid": "catalog:samchon",
     "typia": "catalog:samchon",
-    "uuid": "^11.1.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@types/jszip": "^3.4.1",

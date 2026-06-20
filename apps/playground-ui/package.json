@@ -57,7 +57,7 @@
     "sonner": "^2.0.7",
     "tailwind-merge": "^3.5.0",
     "typia": "catalog:samchon",
-    "uuid": "^11.1.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@tailwindcss/vite": "^4.1.11",

@@ -52,7 +52,7 @@
     "react": "catalog:ui",
     "react-dom": "catalog:ui",
     "typescript": "catalog:typescript",
-    "vitest": "^2.0.0"
+    "vitest": "^3.2.6"
   },
   "dependencies": {
     "@stackblitz/sdk": "^1.11.0",

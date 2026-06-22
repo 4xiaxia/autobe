@@ -61,7 +61,7 @@
     "tgrid": "catalog:samchon",
     "tstl": "catalog:samchon",
     "typia": "catalog:samchon",
-    "uuid": "^11.1.0"
+    "uuid": "^14.0.0"
   },
   "devDependencies": {
     "@nestia/sdk": "catalog:samchon",
